@@ -1,5 +1,15 @@
 ## The simplest working Express concepts demo?
 
+
+## Install
+
+Express is the only dependency
+
+```shell
+yarn install
+npm install  # Might complain due to the yarn.lock file
+```
+
 Start with:
 
 ```shell
